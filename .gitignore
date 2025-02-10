@@ -37,8 +37,8 @@ visem*
 *.png
 *.pt
 
-!./assets/result.png
-!./assets/transtrack.png
+!assets/result.png
+!assets/transtrack.png
 
 # compilation and distribution
 __pycache__
