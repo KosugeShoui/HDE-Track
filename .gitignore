@@ -25,6 +25,9 @@ w_eval*
 w_*
 visem*
 
+!./assets/result.png
+!./assets/transtrack.png
+
 
 !./assets/
 *.avi
@@ -34,7 +37,8 @@ visem*
 *.png
 *.pt
 
-!./assets/
+!./assets/result.png
+!./assets/transtrack.png
 
 # compilation and distribution
 __pycache__
@@ -208,4 +212,3 @@ dmypy.json
 .pyre/
 
 core
-!./assets/
