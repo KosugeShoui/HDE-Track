@@ -5,6 +5,8 @@
 </div>
 
 ### Main Method
+- Hybrid Detection and Embedding
+- Spatio-Tempotal Deformable Attention Module
 
 <img src="assets/p1.png" width="400"/>  <img src="assets/p2.png" width="400"/>
 
@@ -45,7 +47,7 @@ If download link is invalid, models and logs are also available in [Github Relea
 
 
 ## Installation
-The codebases are built on top of [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) and [CenterTrack](https://github.com/xingyizhou/CenterTrack).
+The codebases are built on top of [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
 
 #### Requirements
 - Linux, CUDA>=12.4
