@@ -1,7 +1,7 @@
 ## HDE-Track: Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation
 
 <div style="align: center">
-<img src=./assets/hde_re.pdf/>
+<img src=./assets/hde_model.png/>
 </div>
 
 
