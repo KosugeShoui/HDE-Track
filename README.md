@@ -5,8 +5,8 @@
 </div>
 
 ### Main Method
-- Hybrid Detection and Embedding
-- Spatio-Tempotal Deformable Attention Module
+- Hybrid Detection and Embedding(Left)
+- Spatio-Tempotal Deformable Attention Module(Right)
 
 <img src="assets/p1.png" width="400"/>  <img src="assets/p2.png" width="400"/>
 
@@ -43,7 +43,7 @@ If download link is invalid, models and logs are also available in [Github Relea
 
 
 ## Demo
-<img src="assets/MOT17-11.gif" width="400"/>  <img src="assets/MOT17-04.gif" width="400"/>
+<img src="assets/output_12.gif" width="400"/>  <img src="assets/MOT17-04.gif" width="400"/>
 
 
 ## Installation
