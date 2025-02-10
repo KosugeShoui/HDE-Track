@@ -42,8 +42,8 @@ If download link is invalid, models and logs are also available in [Github Relea
 
 
 
-## Demo
-<img src="assets/output_12.gif" width="400"/>  <img src="assets/MOT17-04.gif" width="400"/>
+## Demonstration of Sperm Video Detection & Tracking
+<img src="assets/output_12.gif" width="400"/>  <img src="assets/output_82.gif" width="400"/>
 
 
 ## Installation
