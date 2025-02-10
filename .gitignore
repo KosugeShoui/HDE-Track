@@ -40,6 +40,8 @@ visem*
 !assets/result.png
 !assets/transtrack.png
 !assets/hde_model.png
+!assets/p1.png
+!assets/p2.png
 
 # compilation and distribution
 __pycache__

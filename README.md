@@ -4,8 +4,13 @@
 <img src=./assets/hde_model.png/>
 </div>
 
+### Main Method
 
-## ABstract
+<img src="assets/p1.png" width="400"/>  <img src="assets/p2.png" width="400"/>
+
+
+
+## Abstract
 Infertility is a common problem, affecting approximately one in six adults worldwide. Several studies have
 shown that the male factor is responsible for infertility in up to 50% of couples. Elaborate sperm analysis is
 needed to solve this problem. Manual evaluation of sperm motility requires precise microscopic observation.
@@ -22,7 +27,7 @@ integrating with conventional CASA systems. HDE-Track can serve as a stronger ba
 on temporal modeling and Transformer-based sperm detection and tracking models.
 
 ## Updates
-- Updata 2025/02/11
+- Update 2025/02/11
 
 ## VISEM-Tracking Evaluation
 <div style="align: center">
