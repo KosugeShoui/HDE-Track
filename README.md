@@ -1,7 +1,7 @@
 ## HDE-Track: Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation
 
 <div style="align: center">
-<img src=./assets/transtrack.png/>
+<img src=assets/transtrack.png/>
 </div>
 
 
@@ -13,7 +13,7 @@ editing now
 
 ## VISEM-Tracking Evaluation
 <div style="align: center">
-<img src=./assets/result.png/>
+<img src=assets/result.png/>
 </div>
 
 
