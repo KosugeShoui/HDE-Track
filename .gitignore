@@ -29,7 +29,7 @@ visem*
 !./assets/transtrack.png
 
 
-!./assets/
+!assets/
 *.avi
 *.jpg
 *.json
@@ -39,6 +39,7 @@ visem*
 
 !assets/result.png
 !assets/transtrack.png
+!assets/hde_re.pdf
 
 # compilation and distribution
 __pycache__
