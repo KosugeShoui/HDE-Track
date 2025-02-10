@@ -1,4 +1,4 @@
-## TransTrack: Multiple Object Tracking with Transformer
+## HDE-Track: Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation
 
 <div style="align: center">
 <img src=./assets/transtrack.png/>
@@ -11,19 +11,13 @@ editing now
 ## Updates
 - update yet
 
-## MOT challenge
-Dataset | MOTA% | IDF1% | MOTP% | MT% | ML% |  FP | FN | IDS 
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-MOT17 | 74.5 | 63.9| 80.6 | 46.8 | 11.3 | 28323 | 112137 | 3663
-MOT20 | 64.5 | 59.2 | 80.0 | 49.1 | 13.6 | 28566 | 151377 | 3565
+## VISEM-Tracking Evaluation
+<div style="align: center">
+<img src=./assets/result.png/>
+</div>
 
-## Validation set
-Training data | Training time | MOTA% | FP% | FN% | IDs% | download
-:---:|:---:|:---:|:---:|:---:|:---:|:---
-[crowdhuman, mot17_half](track_exps/crowdhuman_mot_trainhalf.sh) |  ~45h + 1h  | 67.1 | 3.1  | 29.4 | 0.5 | [671mot17_crowdhuman_mot17.pth](https://drive.google.com/drive/folders/1DjPL8xWoXDASrxgsA3O06EspJRdUXFQ-?usp=sharing)
-[crowdhuman](track_exps/crowdhuman_train.sh)                   |  ~45h       | 56.0 | 11.2 | 32.3 | 0.4 | [560mot17_crowdhuman.pth](https://drive.google.com/drive/folders/1DjPL8xWoXDASrxgsA3O06EspJRdUXFQ-?usp=sharing) 
-[mot17_half](track_exps/mot_trainhalf.sh)                        |  9h        | 61.9 | 3.4  | 34.0   |0.7 |[619mot17_mot17.pth](https://drive.google.com/drive/folders/1DjPL8xWoXDASrxgsA3O06EspJRdUXFQ-?usp=sharing_)
 
+# Base Tracking Model
 If download link is invalid, models and logs are also available in [Github Release](https://github.com/PeizeSun/TransTrack/releases/tag/v0.1) and [Baidu Drive](https://pan.baidu.com/s/1dcHuHUZ9y2s7LEmvtVHZZw) by code m4iv.
 
 #### Notes
